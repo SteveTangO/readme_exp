@@ -1,2 +1,3 @@
 collections:
-  - stu
+  - stu:
+    output: true
